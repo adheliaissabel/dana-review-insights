@@ -1,0 +1,5 @@
+pandas
+google-play-scraper
+Sastrawi
+nltk
+matplotlib
