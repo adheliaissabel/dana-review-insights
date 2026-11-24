@@ -6,7 +6,7 @@ Analisis ulasan Google Play aplikasi DANA (31 Okt – 17 Nov 2026, 11.136 ulasan
 
 ```
 dana-review-insights/
-├── scraper.ipynb                              [Orang 1] scraping, cleaning, EDA
+├── 01_scraper.ipynb                              [Orang 1] scraping, cleaning, EDA
 ├── 02_nlp_topik_sentimen_ringkasan.ipynb      [Orang 2] LDA, sentimen, ringkasan, evaluasi
 ├── 03_analisis_visualisasi.ipynb              [Orang 3] grafik dan tabel insight (siap dijalankan)
 ├── requirements.txt
