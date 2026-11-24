@@ -30,10 +30,6 @@ pip install -r requirements.txt
 jupyter notebook          # jalankan dari folder utama repo
 ```
 
-- **Orang 3:** buka `03_analisis_visualisasi.ipynb` lalu **Run all**. Cukup membaca `data/processed/reviews_topics_sentiment.csv`
-  (tidak ada model yang dilatih). Di Google Colab: clone repo, `%cd dana-review-insights`, lalu jalankan.
-- **Mengulang tahap NLP:** buka `02_nlp_topik_sentimen_ringkasan.ipynb` (disarankan Colab + GPU T4 untuk IndoBERT). Hasilnya sama karena `random_state` dikunci.
-
 ## Kolom hasil NLP (`reviews_topics_sentiment.csv`)
 
 | Kolom | Arti |
