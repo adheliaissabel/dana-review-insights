@@ -3,3 +3,6 @@ google-play-scraper
 Sastrawi
 nltk
 matplotlib
+streamlit
+plotly
+wordcloud
