@@ -1,8 +1,13 @@
 pandas
+numpy
 google-play-scraper
 Sastrawi
 nltk
 matplotlib
-streamlit
-plotly
-wordcloud
+gensim
+scikit-learn
+networkx
+transformers
+torch
+tabulate
+jupyter
