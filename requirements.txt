@@ -11,3 +11,6 @@ transformers
 torch
 tabulate
 jupyter
+streamlit
+plotly
+wordcloud
